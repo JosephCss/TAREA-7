@@ -19,9 +19,10 @@ OBJETIVO ESPECÍFICO:
 
 MARCO TEÓRICO.
 
-![](https://github.com/Shirley-Erazo9/Informe-N7/blob/main/IMP1.png)
+![Untitled (30)](https://user-images.githubusercontent.com/93396250/153534732-65506970-ad1e-4bc2-bce3-fcabaf3c9ea7.jpg)
 
-![](https://github.com/Shirley-Erazo9/Informe-N7/blob/main/IMP2.png)
+
+![Untitled (31)](https://user-images.githubusercontent.com/93396250/153534739-7cbf3d7f-a2a8-4028-9ac1-11c5153fc408.jpg)
 
 ![](https://github.com/Shirley-Erazo9/Informe-N7/blob/main/IMP3.png)
 
@@ -202,14 +203,18 @@ SECCIÓN 14–8 Transformadores con tomas y devanados múltiples.
 ![](https://github.com/Shirley-Erazo9/Informe-N7/blob/main/EJ32.png)
 
 CONCLUSIONES.
+Un transformador normal consta de dos o más bobinas acopladas magnéticamente en un núcleo común y existe inductancia mutua entre dos bobinas acopladas magnéticamente.
+	
+	Una carga a través del devanado secundario de un transformador aparece ante la fuente como una carga reflejada cuyo valor depende del recíproco de la relación de vueltas al cuadrado. Ciertos transformadores pueden igualar una resistencia de carga a una resistencia de fuente para lograr la transferencia de potencia máxima cuando se selecciona la relación de vueltas apropiada
+	
+	La conversión de energía eléctrica en calor en un transformador real se deriva de las resistencias de los devanados, de la pérdida por histéresis en el núcleo, de las corrientes parásitas en el núcleo, y de la fuga de flujo
 
--En conclusión, se puede definir que un inductor es una bobina que está formada por un alambre conductor, con el cual se han hecho espiras o vueltas en forma de un apretado resorte.
 
--En conclusión, los inductores están en el rango de unos cuantos microhenrys a decenas de henrys.
+## 6.	BIBLIOGRAFÍA
 
--En conclusión, se puede determinar que los transformadores estan convertido por dos bobinas de conductores con espiras enrolladas (devanado) sobre un núcleo formado por chapas finas de acero al silicio (núcleo magnético).
+Floyd, T. L. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS - Octava edición. México: PEARSON EDUCACIÓN.
 
--En conclusión, en los transformadores el devanado que suministra energía se llama primario, y el devanado que toma energía recibe el nombre de secundario.
+
 
 BIBLIOGRAFÍA.
 
