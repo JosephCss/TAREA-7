@@ -6,7 +6,7 @@ NRC: 7322.
 
 DOCENTE: ING. DARWIN OMAR ALULEMA FLORES.
 
-OBJETIVO GENERAL:Determinar y localizar fallas en un tipo de fuente de potencia de cd que utiliza un transformador para acoplar el voltaje de ca tomado de una toma de corriente eléctrica estándar.
+OBJETIVO GENERAL: Determinar y localizar fallas en un tipo de fuente de potencia de cd que utiliza un transformador para acoplar el voltaje de ca tomado de una toma de corriente eléctrica estándar.
 
 
 OBJETIVO ESPECÍFICO: 
