@@ -202,6 +202,12 @@ SECCIÓN 14–8 Transformadores con tomas y devanados múltiples.
 
 ![](https://github.com/Shirley-Erazo9/Informe-N7/blob/main/EJ32.png)
 
+LINK VIDEO
+
+https://youtu.be/0S7oA9SpIy8
+
+
+
 CONCLUSIONES.
 
 Un transformador normal consta de dos o más bobinas acopladas magnéticamente en un núcleo común y existe inductancia mutua entre dos bobinas acopladas magnéticamente.
@@ -211,7 +217,7 @@ Una carga a través del devanado secundario de un transformador aparece ante la 
 La conversión de energía eléctrica en calor en un transformador real se deriva de las resistencias de los devanados, de la pérdida por histéresis en el núcleo, de las corrientes parásitas en el núcleo, y de la fuga de flujo
 
 
-## 6.	BIBLIOGRAFÍA
+BIBLIOGRAFÍA
 
 Floyd, T. L. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS - Octava edición. México: PEARSON EDUCACIÓN.
 
